@@ -1,0 +1,22 @@
+Bootstrap
+
+*npm init -- npm install bootstrap ----href="node_modules/bootstrap/dist/css/bootstraap.css" ---src="node_modules/bootstrap/dist/js/bootstrap.js"
+
+
+* for container -- class="container", for border (class="container border",)	
+
+* class="row" for rows ; class="col";
+
+* xs (for phones - screens less than 768px wide)
+* sm (for tablets - screens equal to or greater than 768px wide)
+* md (for small laptops - screens equal to or greater than 992px wide)
+* lg (for laptops and desktops - screens equal to or greater than 1200px wide)
+
+
+*Table class="table table-hover"-hover table some of em are striped,bordered,hover,condensed(for half size table) we have (thead for heading,tr tablerow,td tabledata,tbody for body)
+
+	Syntax:
+		class="table table-border"
+
+		<table> <thead> <tr> <th>name</th> <th>phone</th> <th>email</th> </tr> </thead>
+		<tbody> <tr> <td>vimal</td> <td>785545251</td> <td>huidfghso@gmail.com</td> </tr>  <tr> <td>kamal</td> <td>9828181</td> <td>kamalebey@gmail.com</td> </tr> </tbody> </table>
